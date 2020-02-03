@@ -12,7 +12,7 @@
 # limitations under the License.
 # [START gae_python37_app]
 from flask import Flask, request
-from flask import jsonify
+from flask import jsonify, render_template, url_for
 app = Flask(__name__, static_url_path='', 
             static_folder='static',
             template_folder='templates')
@@ -20,9 +20,10 @@ app = Flask(__name__, static_url_path='',
 def hello():
     """Return a friendly HTTP greeting."""
     return 'Hello I like to make AI Apps'
+
 @app.route('/test')
 def root():
-    return app.send_static_file('index.html')
+    return render_template('index.html')
 @app.route('/name/<value>')
 def name(value):
     val = {"value": value}
