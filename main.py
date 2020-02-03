@@ -13,13 +13,16 @@
 # [START gae_python37_app]
 from flask import Flask, request
 from flask import jsonify
-app = Flask(__name__, static_url_path='')
+app = Flask(__name__, static_url_path='', 
+            static_folder='static',
+            template_folder='templates')
 @app.route('/')
+def hello():
+    """Return a friendly HTTP greeting."""
+    return 'Hello I like to make AI Apps'
+@app.route('/test')
 def root():
     return app.send_static_file('index.html')
-# def hello():
-#     """Return a friendly HTTP greeting."""
-#     return 'Hello I like to make AI Apps'
 @app.route('/name/<value>')
 def name(value):
     val = {"value": value}
