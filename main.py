@@ -22,10 +22,6 @@ def root():
 # def hello():
 #     """Return a friendly HTTP greeting."""
 #     return 'Hello I like to make AI Apps'
-
-@app.route('/test')
-def root():
-    return render_template('index.html')
 @app.route('/name/<value>')
 def name(value):
     val = {"value": value}
