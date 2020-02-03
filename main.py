@@ -17,9 +17,11 @@ app = Flask(__name__, static_url_path='',
             static_folder='static',
             template_folder='templates')
 @app.route('/')
-def hello():
-    """Return a friendly HTTP greeting."""
-    return 'Hello I like to make AI Apps'
+def root():
+    return render_template('index.html')
+# def hello():
+#     """Return a friendly HTTP greeting."""
+#     return 'Hello I like to make AI Apps'
 
 @app.route('/test')
 def root():
