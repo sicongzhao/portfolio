@@ -1,0 +1,1654 @@
+
+
+.artboard {
+  width               : 100%;
+  min-width           : 1216px;
+  height              : 100vh;
+  min-height          : 6446px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.artboard .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 810px;
+  width               : 2560px;
+  position            : absolute;
+  margin              : 0;
+  left                : -672px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : 23px;
+  width               : 138px;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group11 .pngfindcomsocialiconpngtransparent1706798 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+}
+.artboard .group11 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 23px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+}
+.artboard .group11 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 23px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+}
+.artboard .group11 .bitmap .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 23px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group11 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group11 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 23px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+}
+.artboard .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : 98px;
+  width               : 678px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group .szlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group .sicongzhao {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 563px;
+  position            : absolute;
+  margin              : 0;
+  left                : 118px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 72.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 3.6px;
+  line-height         : 98.0px;
+}
+.artboard .ovallooper {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2340px;
+  height              : 1472px;
+  width               : 1213px;
+  position            : absolute;
+  margin              : 0;
+  left                : 454px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.37;
+}
+.artboard .sicongisadatasci {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 263px;
+  height              : auto;
+  width               : 809px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 36.0px;
+}
+.artboard .resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : 71px;
+  position            : absolute;
+  margin              : 0;
+  left                : 990px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1090px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 642px;
+  height              : 63px;
+  width               : 674px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group5 .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group5 .group4 .rectangle4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group5 .group4 .talkwithme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : auto;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .group5 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group5 .group3 .rectangle4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group5 .group3 .downloadpdfportfol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : auto;
+  width               : 203px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(70, 113, 251, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .project1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 870px;
+  height              : auto;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(55, 82, 169, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .predictingemotional {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 913px;
+  height              : auto;
+  width               : 452px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(55, 82, 169, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .overviewthisprojec {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1000px;
+  height              : auto;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(39, 40, 48, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 20.0px;
+}
+.artboard .overviewthisprojec .span1 {
+  
+}
+.artboard .overviewthisprojec .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .overviewthisprojec .span3 {
+  font-family         : "AvenirNextCondensed-Italic", Helvetica, Arial, serif;
+}
+.artboard .overviewthisprojec .span4 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .overviewthisprojec .span5 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .mycontributionia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1171px;
+  height              : auto;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 696px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(39, 40, 48, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 20.0px;
+}
+.artboard .mycontributionia .span1 {
+  
+}
+.artboard .mycontributionia .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .mycontributionia .span3 {
+  
+}
+.artboard .mycontributionia .span4 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .mycontributionia .span5 {
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  color               : rgba(255, 163, 4, 1.0);
+}
+.artboard .mycontributionia .span6 {
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  color               : rgba(79, 82, 97, 1.0);
+}
+.artboard .mycontributionia .span7 {
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  color               : rgba(255, 163, 4, 1.0);
+}
+.artboard .mycontributionia .span8 {
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  color               : rgba(0, 0, 0, 1.0);
+}
+.artboard .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1911px;
+  height              : 772px;
+  width               : 2560px;
+  position            : absolute;
+  margin              : 0;
+  left                : -672px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .dihilogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1999px;
+  height              : 341px;
+  width               : 283px;
+  position            : absolute;
+  margin              : 0;
+  left                : 843px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.16;
+}
+.artboard .overviewtheendgoa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2095px;
+  height              : auto;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 24.0px;
+}
+.artboard .overviewtheendgoa .span1 {
+  
+}
+.artboard .overviewtheendgoa .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .overviewtheendgoa .span3 {
+  
+}
+.artboard .overviewtheendgoa .span4 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .overviewtheendgoa .span5 {
+  
+}
+.artboard .overviewtheendgoa .span6 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .nextsteps1usecat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2393px;
+  height              : auto;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 696px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 24.0px;
+}
+.artboard .nextsteps1usecat .span1 {
+  
+}
+.artboard .nextsteps1usecat .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .cardiologydecompens {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2026px;
+  height              : auto;
+  width               : 459px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .project2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1980px;
+  height              : auto;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .group16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 938px;
+  height              : 173px;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 660px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group16 .artboardovallooper {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 173px;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group16 .fitbit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 116px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1580px;
+  height              : 173px;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 .artboardovallooper {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 173px;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 147px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 .group6 .rectangle4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 .group6 .rectangle11 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 59px;
+  height              : 31px;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 .group6 .rectangle21 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 116px;
+  height              : 31px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 .group6 .teammates {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : auto;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.7px;
+  line-height         : 19.0px;
+}
+.artboard .group15 .group6 .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 36px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 .group6 .group13 .mikellagreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.7px;
+  line-height         : 19.0px;
+}
+.artboard .group15 .group6 .group13 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 .group6 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 101px;
+  height              : 36px;
+  width               : 168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group15 .group6 .group14 .joaquinmenendez {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.7px;
+  line-height         : 19.0px;
+}
+.artboard .group15 .group6 .group14 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .project3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2743px;
+  height              : auto;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(55, 82, 169, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+
+.artboard .project3 .sdproject {
+  font-size           : 12.0px;
+  color: rgba(39, 40, 48, 1.0);
+}
+
+.artboard .valueinvestinginp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2789px;
+  height              : auto;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(55, 82, 169, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .overviewthisisat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2860px;
+  height              : auto;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(39, 40, 48, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 24.0px;
+}
+.artboard .overviewthisisat .span1 {
+  
+}
+.artboard .overviewthisisat .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .overviewthisisat .span3 {
+  
+}
+.artboard .overviewthisisat .span4 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .overviewthisisat .span5 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  text-decoration     : underline;
+}
+.artboard .label1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2873px;
+  height              : auto;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 695px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(39, 40, 48, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 24.0px;
+}
+.artboard .label1 .span1 {
+  
+}
+.artboard .label1 .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .label1 .span3 {
+  
+}
+.artboard .label1 .span4 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .label1 .span5 {
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+}
+.artboard .label1 .span6 {
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+}
+.artboard .label1 .span7 {
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+}
+.artboard .label1 .span8 {
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  color               : rgba(255, 163, 4, 1.0);
+}
+.artboard .label1 .span9 {
+  
+}
+.artboard .label1 .span10 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .label1 .span11 {
+  
+}
+.artboard .label1 .span12 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .label1 .span13 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  text-decoration     : underline;
+}
+.artboard .label1 .span14 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .group12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4981px;
+  height              : 173px;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 660px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group12 .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 173px;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group12 .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 149px;
+  width               : 366px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group12 .group8 .gh8d4df000aee9430 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 149px;
+  width               : 149px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group12 .group8 .rectangle4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 57px;
+  height              : 38px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group12 .group8 .usewechattoscana {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 209px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.4px;
+  line-height         : 19.0px;
+}
+.artboard .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3424px;
+  height              : 728px;
+  width               : 2560px;
+  position            : absolute;
+  margin              : 0;
+  left                : -672px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .rugbylogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3459px;
+  height              : 356px;
+  width               : 344px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.16;
+}
+.artboard .mycontributionatt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3484px;
+  height              : auto;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 696px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.7px;
+  line-height         : 19.0px;
+}
+.artboard .mycontributionatt .span1 {
+  
+}
+.artboard .mycontributionatt .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .mycontributionatt .span3 {
+  font-family         : "AvenirNextCondensed-Italic", Helvetica, Arial, serif;
+}
+.artboard .mycontributionatt .span4 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .mycontributionatt .span5 {
+  font-family         : "AvenirNextCondensed-Italic", Helvetica, Arial, serif;
+}
+.artboard .mycontributionatt .span6 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .mycontributionatt .span7 {
+  font-family         : "AvenirNextCondensed-Bold", Helvetica, Arial, serif;
+}
+.artboard .overviewdatafestis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3769px;
+  height              : auto;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.7px;
+  line-height         : 19.0px;
+}
+.artboard .overviewdatafestis .span1 {
+  
+}
+.artboard .overviewdatafestis .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .project4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3484px;
+  height              : auto;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .fatiguepredictionf {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3530px;
+  height              : auto;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .overviewthisisas {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4337px;
+  height              : auto;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(39, 40, 48, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 24.0px;
+}
+.artboard .overviewthisisas .span1 {
+  
+}
+.artboard .overviewthisisas .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .overviewthisisas .span3 {
+  
+}
+.artboard .overviewthisisas .span4 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .overviewthisisas .span5 {
+  
+}
+.artboard .overviewthisisas .span6 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .project5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4212px;
+  height              : auto;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(55, 82, 169, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+
+.artboard .project5 .sdproject {
+  font-size           : 12.0px;
+  color: rgba(39, 40, 48, 1.0);
+}
+
+.artboard .deepdivesleepass {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4258px;
+  height              : auto;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(55, 82, 169, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5261px;
+  height              : 1185px;
+  width               : 2560px;
+  position            : absolute;
+  margin              : 0;
+  left                : -672px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .designedbysicongz {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6400px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 465px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 16.0px;
+}
+.artboard .recommendations {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5321px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5849px;
+  height              : 215px;
+  width               : 976px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group10 .rectangle4 {
+  background-color    : rgba(0, 0, 0, 0.37);
+  top                 : 0px;
+  height              : 215px;
+  width               : 976px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group10 .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : 81px;
+  width               : 149px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group10 .group9 .lizhiwudirectorof {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .group10 .group9 .lizhiwudirectorof .span1 {
+  
+}
+.artboard .group10 .group9 .lizhiwudirectorof .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .group10 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group10 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group10 .sicongandihavewo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : 631px;
+  position            : absolute;
+  margin              : 0;
+  left                : 316px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .group101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5408px;
+  height              : 411px;
+  width               : 976px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group101 .rectangle4 {
+  background-color    : rgba(0, 0, 0, 0.37);
+  top                 : 0px;
+  height              : 411px;
+  width               : 976px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group101 .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : 81px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group101 .group9 .willratliffinnovat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .group101 .group9 .willratliffinnovat .span1 {
+  
+}
+.artboard .group101 .group9 .willratliffinnovat .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .group101 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group101 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group101 .ihavehadthedisti {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 631px;
+  position            : absolute;
+  margin              : 0;
+  left                : 316px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .group102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6094px;
+  height              : 276px;
+  width               : 976px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group102 .rectangle4 {
+  background-color    : rgba(0, 0, 0, 0.37);
+  top                 : 0px;
+  height              : 276px;
+  width               : 976px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group102 .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : 81px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group102 .group9 .jiaweiguceoandco {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .group102 .group9 .jiaweiguceoandco .span1 {
+  
+}
+.artboard .group102 .group9 .jiaweiguceoandco .span2 {
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+}
+.artboard .group102 .jiawei {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group102 .jiawei .jiawei1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.artboard .group102 .label11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 631px;
+  position            : absolute;
+  margin              : 0;
+  left                : 316px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNextCondensed-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 27.0px;
+}
+.artboard .uimockup1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4243px;
+  height              : 656px;
+  width               : 357px;
+  position            : absolute;
+  margin              : 0;
+  left                : 720px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
