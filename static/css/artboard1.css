@@ -787,7 +787,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2743px;
   height              : auto;
-  width               : 151px;
+  width               : 360px;
   position            : absolute;
   margin              : 0;
   left                : 120px;
@@ -802,6 +802,12 @@ div {
   letter-spacing      : 1.0px;
   line-height         : 27.0px;
 }
+
+.artboard .project3 .sdproject {
+  font-size           : 12.0px;
+  color: rgba(39, 40, 48, 1.0);
+}
+
 .artboard .valueinvestinginp {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2789px;
@@ -1159,7 +1165,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 4212px;
   height              : auto;
-  width               : 151px;
+  width               : 360px;
   position            : absolute;
   margin              : 0;
   left                : 120px;
@@ -1174,6 +1180,12 @@ div {
   letter-spacing      : 1.0px;
   line-height         : 27.0px;
 }
+
+.artboard .project5 .sdproject {
+  font-size           : 12.0px;
+  color: rgba(39, 40, 48, 1.0);
+}
+
 .artboard .deepdivesleepass {
   background-color    : rgba(255,255,255,0.0);
   top                 : 4258px;
